@@ -1,0 +1,27 @@
+Nombre,Apellido,Edad,Ciudad,Salario,Horas_trabajadas,Salario_anual,Departamento,Turno
+Ana,Martínez,24,Barcelona,32000,38,384000,Recursos Humanos,Tarde
+Andrés,Vargas,22,Gijón,34000,35,408000,Operaciones,Noche
+Carlos,Hernández,30,Bilbao,40000,45,480000,IT,Mañana
+Clara,Romero,21,Vigo,27000,34,324000,Operaciones,Tarde
+Daniel,Cortés,37,A Coruña,45000,51,540000,Logística,Mañana
+David,Torres,27,Palma,37000,44,444000,Logística,Tarde
+Elena,Castillo,34,Alicante,38000,46,456000,Compras,Noche
+Eva,Alonso,29,Granada,37000,42,444000,Logística,Noche
+Hugo,Mendoza,38,Oviedo,43000,50,516000,Finanzas,Noche
+Irene,Delgado,19,Santander,46000,32,552000,Operaciones,Mañana
+Javier,Sánchez,31,Málaga,33000,41,396000,Operaciones,Noche
+Juan,Gómez,28,Madrid,30000,40,360000,Ventas,Mañana
+Laura,Ramírez,25,Murcia,29000,37,348000,Legal,Mañana
+Lucía,Santos,30,Sevilla,39000,41,468000,Logística,Noche
+Luisa,Ruiz,32,Sevilla,28000,36,336000,Finanzas,Noche
+Mariano,Ibáñez,28,Barcelona,35000,39,420000,Finanzas,Noche
+Mario,Hernández,30,Valencia,50000,43,600000,Recursos Humanos,Mañana
+María,Díaz,29,Zaragoza,31000,39,372000,Contabilidad,Tarde
+Miguel,Morales,33,Córdoba,39000,47,468000,Logística,Tarde
+Noelia,Fuentes,26,Murcia,36000,38,432000,Logística,Noche
+Paula,Navarro,20,Tarragona,44000,33,528000,Marketing,Noche
+Pedro,López,35,Valencia,35000,42,420000,Marketing,Mañana
+Rafael,Ortega,36,Donostia,41000,48,492000,Logística,Tarde
+Sara,Flores,26,Valladolid,36000,43,432000,Compras,Noche
+Sofía,Silva,23,Granada,42000,49,504000,Logística,Mañana
+Tomás,Pérez,27,Madrid,34000,40,408000,Finanzas,Mañana
